@@ -1,0 +1,49 @@
+{
+    "difficulties": "Iniciante:Fácil:Médio:Difícil:Extremo",
+    
+    "homeNewGame": "Novo Jogo",
+    "homeContinue": "Continuar",
+    
+    "themeTitle": "Configurações de Aparência",
+    "themePrimaryColor": "Cor primária:",
+    "themePickPrimaryColor": "Escolher cor primária:",
+    "themeDarkTheme": "Tema escuro:",
+    "themeResetTheme": "Voltar ao tema padrão",
+    
+    "leaderboardScores": "Pontos",
+    "leaderboardNoScoresYet": "Sem pontuação ainda.",
+    "leaderboardClose": "Fechar",
+
+    "winStrings": "Você ganhou!:Parabéns, você conseguiu!:Ótimo trabalho!:Impressionante.:EYYYYYYYY!:All our base are belong to you.:Você é um vencedor!:O vencedor é você!:Um{adjective} jogo!",
+    "@winStrings": {
+        "description": "Um desses é escolhido pela winscreen, mas o último tem uma chance muito maior e é preenchido com um adjetivo de winAdjectives."
+    },
+
+    "winAdjectives": " charming: determinado: fabuloso: dinâmica:n imaginativa: de tirar o fôlego: brilhante:n elegante: amável: espetacular:n digno da internet:digno de uma captura de tela: tipo pato:n explosivo: desonesto:n excelente: conciso",
+    
+    "winDifficulty": "Dificuldade: {difficulty}",
+    "winValidationsUsed": "Validações utilizudas: {count}",
+    "winTime": "Tempo: {time}",
+    "winGotIt": "Entendi!",
+
+    "aboutSudoku": "Sobre {name}",
+    "aboutThanks": "Obrigado por jogar!",
+    "aboutVersion": "Versão: {version}",
+    "aboutFossNotice": "{name} é um software código fonte. Nenhum dadoé coletado, e o jogo é disponibilizado sem custo para todos.",
+    "aboutContributionsAppreciated": "Desenvolvimento e manutenção desse aplicativo toma muitas horas de trabalho, e qualquer contribuição é muito apreciada!",
+    "aboutWaysToHelp": "Aqui estão algumas maneiras em que você pode ajudar:",
+    "aboutSubmitPatch": "Envie uma patch",
+    "aboutDonate": "Doe",
+    "aboutReplayTutorial": "Jogar novamente o tutorial",
+    "aboutShowLicenses": "Mostrar licenças",
+    
+    "tutorialWelcome": "Bem-vindo {name}!",
+    "tutorialIntroduction": "Segue uma breve introdução ao jogo.\nSe você já sabe como jogar, sinta-se a vontade para pular!",
+    "tutorialContinue": "Continuar",
+    "tutorialSkip": "Pular",
+    "tutorialLine0": "Cada linha, coluna, e caixa 3x3 deve conter todos os números de 1-9.",
+    "tutorialLine1": "Selecione um número abaixo, então clique numa célula vazia para preenchê-la.",
+    "tutorialLine2": "Você pode também clicar em uma célula preenchida para selecionar o seu número.",
+    "tutorialFinished": "Você está pronto para jogar agora!",
+    "tutorialNoHelp": "Não, obrigado"
+}
