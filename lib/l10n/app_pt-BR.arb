@@ -14,12 +14,12 @@
     "leaderboardNoScoresYet": "Sem pontuação ainda.",
     "leaderboardClose": "Fechar",
 
-    "winStrings": "Você ganhou!:Parabéns, você conseguiu!:Ótimo trabalho!:Impressionante.:EYYYYYYYY!:All our base are belong to you.:Você é um vencedor!:O vencedor é você!:Um{adjective} jogo!",
+    "winStrings": "Você ganhou!:Parabéns, você conseguiu!:Ótimo trabalho!:Impressionante.:Uhu!:Você é um vencedor!:O vencedor é você!:Um{adjective} jogo!",
     "@winStrings": {
-        "description": "Um desses é escolhido pela winscreen, mas o último tem uma chance muito maior e é preenchido com um adjetivo de winAdjectives."
+        "description": "Um desses é escolhido pela winscreen, mas o último tem uma chance muito maior e é preenchido com um adjetivo winAdjectives."
     },
 
-    "winAdjectives": " charming: determinado: fabuloso: dinâmica:n imaginativa: de tirar o fôlego: brilhante:n elegante: amável: espetacular:n digno da internet:digno de uma captura de tela: tipo pato:n explosivo: desonesto:n excelente: conciso",
+    "winAdjectives": " encantador: determinado: fabuloso: dinâmico:n imaginativo: de tirar o fôlego: brilhante:n elegante: amável: espetacular:n digno da internet:digno de uma captura de tela: tipo pato:n explosivo: desonesto:n excelente: conciso",
     
     "winDifficulty": "Dificuldade: {difficulty}",
     "winValidationsUsed": "Validações utilizudas: {count}",
@@ -29,8 +29,8 @@
     "aboutSudoku": "Sobre {name}",
     "aboutThanks": "Obrigado por jogar!",
     "aboutVersion": "Versão: {version}",
-    "aboutFossNotice": "{name} é um software código fonte. Nenhum dadoé coletado, e o jogo é disponibilizado sem custo para todos.",
-    "aboutContributionsAppreciated": "Desenvolvimento e manutenção desse aplicativo toma muitas horas de trabalho, e qualquer contribuição é muito apreciada!",
+    "aboutFossNotice": "{name} é um software de código aberto. Nenhum dado é coletado, e o jogo é disponibilizado sem custo para todos.",
+    "aboutContributionsAppreciated": "O desenvolvimento e a manutenção desse aplicativo toma muitas horas de trabalho, e qualquer contribuição é muito apreciada!",
     "aboutWaysToHelp": "Aqui estão algumas maneiras em que você pode ajudar:",
     "aboutSubmitPatch": "Envie uma patch",
     "aboutDonate": "Doe",
